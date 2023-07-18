@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think ,i play chess well**
 
-<h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@21_kash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@21_kash1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanka kashyap (chiklu) ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka kashyap (chiklu) ." height="30" width="40" /></a>

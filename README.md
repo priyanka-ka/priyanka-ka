@@ -1,5 +1,5 @@
 <!--![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fhacker-you-have-been-hacked-snt8b8zv3tqqm8xa.html&psig=AOvVaw0v8LJLHYT9pAUWilZkQ2P0&ust=1689763077289000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDVl7aQmIADFQAAAAAdAAAAABAx)-->
-<h1 align="center">Hi 👋, I'm Priyanka Kashyap (techiechiklu)</h1>
+<h1 align="center">Hii.. buddy 👋, I'm Priyanka Kashyap (techiechiklu)</h1>
 <h3 align="center">A electronics and communication engineering student and a frontend developer from India and constantly sharpening my skills , also loves to do creative art stuffs. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">

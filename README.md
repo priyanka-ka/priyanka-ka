@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center"> I'm Priyanka Kashyap (techiechiklu)</h1>
-<h3 align="center"> An electronics and communication engineering student and a frontend developer from India and constantly sharpening my skills, also loves to do creative art stuff. </h3>
+<h3 align="center"> An electronics and communication engineering student and an embedded engineer from India, who is constantly sharpening my skills, also loves to do creative art stuff. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-ka" alt="priyanka-ka" /> </p>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 - 📫 How to reach me **priyankakashyap404@gmail.com**
